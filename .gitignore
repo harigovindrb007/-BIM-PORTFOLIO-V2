@@ -1,0 +1,9 @@
+# IDE and system files
+.agents/
+.system_generated/
+.tempmediaStorage/
+scratch/
+*.metadata.json
+
+# Local hidden asset mirror (tracked as user_uploaded/)
+.user_uploaded/
